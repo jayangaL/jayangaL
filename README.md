@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayangaL
-- 👀 I’m interested in fullstack web development
+- 👀 I’m a fullstack web developer
 - 🌱 I’m currently learning network programming
 - 💞️ I’m looking to collaborate on web application development
 - 📫 How to reach me call or text me on +94719862196
